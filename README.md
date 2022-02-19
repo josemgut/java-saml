@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/onelogin/java-saml.svg?branch=master)](https://travis-ci.org/onelogin/java-saml) [![Coverage Status](https://coveralls.io/repos/github/onelogin/java-saml/badge.svg?branch=master)](https://coveralls.io/github/onelogin/java-saml?branch=master)
 
-Add SAML support to your Java applications using this library.
+Add SAML support to your Java applications using this library. (Jakarta EE 9 libraries)
 Forget those complicated libraries and use that open source library provided and supported by OneLogin Inc.
 
 2.8.0 uses xmlsec 2.2.3 which fixes [CVE-2021-40690](https://snyk.io/vuln/SNYK-JAVA-ORGAPACHESANTUARIO-1655558)
